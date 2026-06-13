@@ -83,10 +83,10 @@
 
     <div class="container">
         <!-- ضع رابط صورتك الشخصية هنا -->
-        <img src="https://via.placeholder.com/110" alt="الصورة الشخصية" class="profile-img">
+        <img src="https://via.placeholder.com/110" alt="https://g.top4top.io/p_3738ym6sq1.jpg" class="profile-img">
         
         <!-- اسمك ووصفك -->
-        <h2>اسمك الكريم هنا</h2>
+        <h2>ايـفـان مهند </h2>
         <div class="bio">صانع محتوى | مبرمج | روابط حساباتي</div>
 
         <!-- أزرار الروابط (استبدل علامة # بروابط حساباتك الحقيقية) -->
