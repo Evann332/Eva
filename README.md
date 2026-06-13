@@ -106,7 +106,7 @@
         </a>
 
         <a href="#" target="_blank" class="link-btn">
-            <span>قناتي على تلغرام 🚀</span>
+            <span>قناتي على تلغرام ،🚀</span>
             <span class="arrow">←</span>
         </a>
     </div>
